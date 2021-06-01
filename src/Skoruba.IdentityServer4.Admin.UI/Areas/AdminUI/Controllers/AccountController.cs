@@ -6,7 +6,6 @@ using System.Collections.Generic;
 
 namespace Skoruba.IdentityServer4.Admin.UI.Areas.AdminUI.Controllers
 {
-    [Authorize]
     [Area(CommonConsts.AdminUIArea)]
     public class AccountController : BaseController
     {
